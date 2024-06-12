@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence, Machine learning , Tensor flow and scikit- learn**
 
-- 💬 Ask me about **Java, python, c, frontend graphic design**
+- 💬 Ask me about **Java, python, c, M L ,graphic design**
 
 - 📫 How to reach me **m22abhiram@gmail.com**
 
