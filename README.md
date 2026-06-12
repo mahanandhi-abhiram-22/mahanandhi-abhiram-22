@@ -32,7 +32,7 @@ I am most interested in roles at the intersection of **product engineering** and
 
 ```
 Location     →  Hyderabad, India
-Education    →  B.Tech CSE — AI & ML  (in progress)
+Education    →  B.Tech CSE — AI & ML 
 Focus        →  Full Stack · AI/ML · System Design
 Open to      →  SDE roles · AI/ML engineering · Full-time & internships
 ```
@@ -167,24 +167,23 @@ Personal developer portfolio with 3D animations, scroll-driven motion, and a min
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahanandhi-abhiram-22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanandhi-abhiram-22&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<!-- Stats card — hosted on anuraghazra's own Vercel deployment (most stable) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahanandhi-abhiram-22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+<!-- Top Languages -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanandhi-abhiram-22&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=300" />
 </div>
-
 <div align="center">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahanandhi-abhiram-22&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
+<!-- Streak stats — streak-stats.demolab.com is the new maintained URL (herokuapp deprecated) -->
+<img width="95%" src="https://streak-stats.demolab.com/?user=mahanandhi-abhiram-22&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=900" />
 </div>
-
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahanandhi-abhiram-22&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&area_color=58a6ff" />
-
+<!-- Activity graph — use the gh-readme-activity-graph on GitHub Pages (vercel instance is unreliable) -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahanandhi-abhiram-22&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true&area=true&area_color=1f3a5f&radius=6" />
 </div>
-
+<div align="center">
+<!-- GitHub trophies — extra visual layer, well-maintained -->
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mahanandhi-abhiram-22&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 ---
 
 ## Currently Exploring
