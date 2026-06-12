@@ -188,10 +188,22 @@ Personal developer portfolio with 3D animations, scroll-driven motion, and a min
 
 ## Currently Exploring
 
-- **LLM fine-tuning** — adapting open-source models for domain-specific tasks
-- **RAG architectures** — retrieval-augmented generation for production AI apps
-- **System design** — distributed systems, caching strategies, API design at scale
-- **TypeScript** — deepening type-level programming and advanced generics
+**CS Fundamentals**
+
+- **Data Structures & Algorithms** — problem solving, complexity analysis, competitive programming patterns
+- **Operating Systems** — process scheduling, memory management, concurrency and synchronization
+- **Database Management Systems** — query optimization, normalization, transaction management, indexing
+- **Object-Oriented Programming** — design principles, SOLID, design patterns (GoF)
+- **Computer Networks** — TCP/IP stack, HTTP internals, socket programming
+- **Compiler Design** — lexical analysis, parsing, AST construction, code generation
+
+**Engineering Depth**
+
+- **System Design** — distributed systems, caching strategies, load balancing, API design at scale
+- **LLM & RAG** — retrieval-augmented generation, prompt engineering, fine-tuning open-source models
+- **TypeScript** — advanced generics, type-level programming, strict type safety in full stack apps
+
+---
 
 ---
 
