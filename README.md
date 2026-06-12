@@ -250,7 +250,7 @@ I am interested in contributing to projects in the following areas:
 
 I am open to full-time roles, internships, and interesting project collaborations.
 
-[![Email](https://img.shields.io/badge/m22abhiram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m22abhiram@gmail.com)
+[![Email](https://img.shields.io/badge/abhiram.mahanandhi04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.mahanandhi04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abhiram/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiram-dev-portfolio.vercel.app/)
 
