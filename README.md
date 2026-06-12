@@ -14,8 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiram-dev-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abhiram/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahanandhi-abhiram-22)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m22abhiram@gmail.com)
-
+[![Email](https://img.shields.io/badge/abhiram.mahanandhi04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.mahanandhi04@gmail.com)
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahanandhi-abhiram-22&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/mahanandhi-abhiram-22)
